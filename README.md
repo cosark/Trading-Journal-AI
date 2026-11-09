@@ -339,6 +339,10 @@ backend's CORS allow list. Any localhost port is accepted without configuration.
 Every install starts empty: no accounts, no trades, no demo data. Add your first account in the app,
 then import your broker's statement on the Import page.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Trading%20Journal%20AI/)
+
 ## Updating to a new release
 
 When a newer release is out, the app shows a notice at the top of the page with a link to the
